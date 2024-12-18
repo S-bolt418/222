@@ -1,0 +1,26 @@
+			    Black Jack - 21 v1.0b1
+		                by Chris Deehr
+	                     aka Boom2Envy on IRC
+		        e-mail: deehr@mail.tcbi.com
+	    Check http://tempest.tcbi.com/~deehr/ for official updates
+
+Note:  THIS IS NOT A COMPLETE BETA!!!!
+
+I.  Introduction
+	Blackjack has long been a favorite game of mine.  I have played it
+	many times at the local casinos (and usually lost).  I thought
+	to myself:  "Hey, self, why not make it for Fargo?".  I replied:
+	"Sure, what a great idea".  So that is what I did.
+II.  Features
+	This beta of blackjack includes:
+	1.	Surrendering
+	2.	Doubling Down
+	3.	Player Black Jacks
+
+III.  To do
+	1.	Fix the counting error by for the dealer
+	2.	Make sure that protected memory violations do not occur
+		when you exit the program
+	3.	Add splitting
+	4.	Fix bugs sent to me at deehr@mail.tcbi.com
+	5.	Secret keycodes  ;)
